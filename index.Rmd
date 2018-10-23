@@ -19,9 +19,10 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Including Plots
+## Helen Fredricks
 
-You can also embed plots, for example:
+Hi, I work in Chemistry in the Van Mooy Lab. You can find us in the Fye Laboratory on the Quissett Campus, we have some cool mass spectrometers and stuff.
+
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
